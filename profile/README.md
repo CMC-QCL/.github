@@ -1,9 +1,17 @@
 # QCL: Murty Sunak Quantitative and Computing Lab
 
-> "_The manipulation of numbers, the manipulation of structures._  
-> And if I had asked what music means to you, would you have answered:  
-> _'The manipulation of notes?'_"  
-> — Serge Lang
+## Mission
+
+> “The Murty Sunak Quantitative and Computing Lab (QCL) serves as the transdisciplinary campus hub and comprehensive support center for students and faculty seeking assistance with a broad spectrum of quantitative issues, including mathematics, computation, statistics, programming, data analysis, and visualization.”
+
+The QCL strives to:
+
+- Support students in applying quantitative and computational skills to their coursework and research
+- Make programming more accessible and less intimidating
+- Provide expert guidance on research tools, methods, and technologies
+- Foster inclusion by supporting students from all backgrounds, especially those historically underrepresented in technology and data-focused disciplines
+
+---
 
 ## Overview
 
@@ -16,19 +24,6 @@ The **Murty Sunak Quantitative and Computing Lab (QCL)** at Claremont McKenna Co
 - Data Analysis and Visualization  
 
 The QCL is committed to integrating computer and data science into the full range of liberal arts disciplines, including the social sciences, sciences, and humanities. We aim to help students build and apply quantitative literacy across all academic fields—from economics to biology, from political science to philosophy.
-
----
-
-## Mission
-
-> “The Murty Sunak Quantitative and Computing Lab (QCL) serves as the transdisciplinary campus hub and comprehensive support center for students and faculty seeking assistance with a broad spectrum of quantitative issues, including mathematics, computation, statistics, programming, data analysis, and visualization.”
-
-The QCL strives to:
-
-- Support students in applying quantitative and computational skills to their coursework and research
-- Make programming more accessible and less intimidating
-- Provide expert guidance on research tools, methods, and technologies
-- Foster inclusion by supporting students from all backgrounds, especially those historically underrepresented in technology and data-focused disciplines
 
 ---
 
