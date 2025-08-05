@@ -61,6 +61,25 @@ We also offer access to high-performance computing resources and guidance on adv
 
 ---
 
+### Current Workshops
+
+LaTeX: Equation Writing (Level 1): https://cmc-qcl.github.io/Equation-Writing-with-LaTeX/
+Python: Programming Basics Part 1 (Level 1): https://cmc-qcl.github.io/python-basics/
+Python: Programming Basics Part 2 (Level 1): https://cmc-qcl.github.io/python-basics/
+Python: Manipulating Data - Level 2: https://cmc-qcl.github.io/python-data-manipulation/
+R: Programming Basics (Level 1): https://cmc-qcl.github.io/RProgrammingBasicsLevel1/
+R: Data Exploration (Level 2): https://cmc-qcl.github.io/QCL-Workshop-Data-Wrangling-with-R-Level-2/
+SQL: Setting Up Databases using DBeaver - Part 1: https://cmc-qcl.github.io/Introduction-to-SQL-DBeaver-Pt1/
+SQL: Getting Insights from Databases using DBeaver - Part 2: https://cmc-qcl.github.io/Introduction-to-SQL-DBeaver-Pt2/
+GIT: Version Control for Beginners: https://cmc-qcl.github.io/Intro_GIT/
+ArcGIS Online: Exploring GIS Libraries: https://cmc-qcl.github.io/GIS/
+STATA Bootcamp (Level 1): 
+Excel: Exploring Data - Level 1 Workshop: https://cmc-qcl.github.io/Excel_Level_1/
+Excel: Conditioning Data - Level 2 Workshop: https://cmc-qcl.github.io/Excel_Level_2/
+Tableau: Visualization (Level 1): https://cmc-qcl.github.io/Intro-Tableau-L1/
+
+---
+
 ## Contact Information
 
 **Murty Sunak Quantitative and Computing Lab**  
