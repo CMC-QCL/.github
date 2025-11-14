@@ -2,7 +2,7 @@
 
 ## Mission
 
-> “The Murty Sunak Quantitative and Computing Lab (QCL) serves as the transdisciplinary campus hub and comprehensive support center for students and faculty seeking assistance with a broad spectrum of quantitative issues, including mathematics, computation, statistics, programming, data analysis, and visualization.”
+“The Murty Sunak Quantitative and Computing Lab (QCL) serves as the transdisciplinary campus hub and comprehensive support center for students, faculty, and staff seeking assistance across a broad spectrum of quantitative areas and skills, including mathematics, computation, statistics, programming, data analysis, and data visualization.”
 
 The QCL strives to:
 
