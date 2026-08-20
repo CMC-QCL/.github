@@ -29,9 +29,9 @@ The QCL is committed to integrating computer and data science into the full rang
 
 ## Services
 
-### Peer Mentoring
+### Peer Tutoring
 
-We hire and train a team of highly skilled undergraduate mentors to support students through:
+We hire and train a team of highly skilled undergraduate tutors (QCL Mentor) to support students through:
 
 - One-on-one tutoring sessions (by appointment)
 - Drop-in hours for quick help with coursework
@@ -41,7 +41,7 @@ All CMC students and 5C students enrolled in CMC quantitative courses are eligib
 
 ### Training Workshops
 
-We offer regular, instructor-led workshops on foundational topics such as:
+We offer regular, hands-on workshops on foundational topics such as:
 
 - Programming languages (e.g., Python, R, MATLAB)
 - Data analysis techniques
@@ -49,7 +49,7 @@ We offer regular, instructor-led workshops on foundational topics such as:
 
 Our workshops are designed to be inclusive and beginner-friendly, ensuring participants learn at a comfortable pace.
 
-### Quantitative Consulting and Research Support
+### Quantitative Consulting and Research Computing Support
 
 QCL directors and graduate fellows provide consulting for:
 
